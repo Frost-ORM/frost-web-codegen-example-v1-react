@@ -1,0 +1,9 @@
+.App {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(0deg, rgba(255, 255, 255, 1) 50%, rgba(69, 129, 255, 1) 100%) fixed;
+  height: 100%;
+  padding: .5rem;
+  overflow-y: auto;
+  justify-content: center;
+  align-items: center;
+}
